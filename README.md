@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an IT Resilience and Disaster Recovery specialist with **over 18 years of IT infrastructure experience**, including nearly 8 years at IBM managing backup and recovery operations for critical enterprise environments.
+I am an IT Resilience and Disaster Recovery specialist with **over 15 years of IT infrastructure experience**, including nearly 8 years at IBM managing backup and recovery operations for critical enterprise environments.
 
 I specialize in:
 - Enterprise backup platforms (Veritas NetBackup, EMC Avamar, TSM, Data Domain)
