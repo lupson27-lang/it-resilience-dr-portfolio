@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an IT Resilience and Disaster Recovery specialist with **over 15 years of IT infrastructure experience**, including nearly 8 years at IBM managing backup and recovery operations for critical enterprise environments.
+I’m a cybersecurity and IT professional with over 15 years of experience, including nearly eight years at IBM managing backup and recovery operations for critical enterprise environments. I have worked primarily in enterprise infrastructure and backup and recovery, and I am now focused on resilience analysis and infrastructure implementations.
 
 I specialize in:
 - Enterprise backup platforms (Veritas NetBackup, EMC Avamar, TSM, Data Domain)
@@ -10,7 +10,7 @@ I specialize in:
 - Ransomware-resilient backup strategies
 - Alignment with ISO 27001 and NIST CSF frameworks
 
-📍 Based in NRW, Germany  
+📍 Based in Germany  
 ✅ Full work authorization  
 🇩🇪 German B1 (progressing to B2)  
 🇬🇧 English native proficiency  
