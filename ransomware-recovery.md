@@ -1,13 +1,3 @@
-| :--- | :--- |
-| `ransomware-recovery.md` | (Provided after this table) |
-| `sample-dr-runbook.md` | (Provided after this table) |
-| `framework-alignment.md` | (Provided after this table) |
-
----
-
-#### `ransomware-recovery.md`
-
-```markdown
 # Ransomware Recovery Considerations
 
 ## The Reality
@@ -76,3 +66,10 @@ flowchart LR
     style IMM fill:#51cf66
     style OFFSITE fill:#51cf66
     style RECOVER fill:#51cf66
+```
+
+## Framework Alignment
+
+These controls align with:
+- **NIST CSF** – Respond (RS) and Recover (RC) functions
+- **ISO 27001** – Annex A.12 (Operations Security), A.17 (Business Continuity)
