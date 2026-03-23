@@ -1,4 +1,3 @@
-```markdown
 # Sample DR Test Runbook Template
 
 ## Test Details
@@ -76,3 +75,31 @@ graph TD
     style TIER3 fill:#e9ecef
     style E fill:#ffd43b
     style H fill:#ffd43b
+```
+
+---
+
+## Post-Test Actions
+
+### What Worked
+- [Capture successful elements]
+
+### What Needs Improvement
+- [Capture gaps and issues]
+
+### Action Items
+
+| Action | Owner | Due Date |
+| :--- | :--- | :--- |
+| [Action] | [Name] | [Date] |
+| [Action] | [Name] | [Date] |
+
+---
+
+## Sign-Off
+
+| Role | Signature | Date |
+| :--- | :--- | :--- |
+| Test Lead | | |
+| Technical Lead | | |
+| Business Owner | | |
