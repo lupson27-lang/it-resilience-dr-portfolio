@@ -1,0 +1,26 @@
+```markdown
+# ISO 27001 and NIST CSF Alignment
+
+## How I Map Operational Resilience to Frameworks
+
+I use both frameworks in complementary ways. ISO 27001 provides the **governance structure** (Annex A controls, certification requirements). NIST CSF provides the **functional lens** (Identify, Protect, Detect, Respond, Recover).
+
+## Framework Integration
+
+```mermaid
+graph LR
+    subgraph ISO27001
+        A12[Operations Security]
+        A17[Business Continuity]
+        A18[Compliance]
+    end
+    
+    subgraph NIST_CSF
+        RS[Respond]
+        RC[Recover]
+        PR[Protect]
+    end
+    
+    A12 --> PR
+    A17 --> RC
+    A17 --> RS
