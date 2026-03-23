@@ -2,7 +2,7 @@
 
 ## My Approach
 
-Over 15 years in IT, including nearly 8 years at IBM, I have developed a testing methodology that balances technical rigor with business reality. A DR test is not a pass/fail event—it is an opportunity to improve.
+Over 15 years in IT, including nearly 8 years at IBM, I have developed a testing methodology that balances technical rigor with business reality. A DR test is not a pass/fail event, rather an opportunity to improve.
 
 ## Pre-Test Phase
 
