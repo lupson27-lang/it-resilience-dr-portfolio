@@ -13,8 +13,8 @@ I specialize in:
 📍 Based in Germany  
 ✅ Full work authorization  
 🇩🇪 German B1 (progressing to B2)  
-🇬🇧 English native proficiency  
-🇫🇷 French native proficiency
+🇬🇧 English C1 proficiency  
+🇫🇷 French C2 (Native) proficiency
 
 ---
 
